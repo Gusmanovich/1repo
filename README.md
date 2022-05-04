@@ -22,7 +22,9 @@
 * Вышел из аккаунта AlmirGiniyatullin и вошел в аккаунт Gusmanovich
 ---
 * В аккаунте Gusmanovich слил отправленные в ветке new изменения с аккаунта AlmirGiniyatullin в ветку main репозитория 1repo в аккаунте Gusmanovich.
+---
 
+# Изменения
 
 
 
